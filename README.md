@@ -1,4 +1,4 @@
-# Fractal Moons
+# Vertex Moons
 Adds 2 new moon to [Kerbal Space Program](https://www.kerbalspaceprogram.com/).
 
 ### Prerequisites
@@ -7,4 +7,4 @@ Adds 2 new moon to [Kerbal Space Program](https://www.kerbalspaceprogram.com/).
 * [Community Terrain Texture Pack](https://github.com/Galileo88/Community-Terrain-Texture-Pack/releases)
 
 ## Installation
-Copy _FractalMoons_ (located in _GameData_) to the _GameData_ folder in your KSP installation directory.
+Copy _VertexMoons_ (located in _GameData_) to the _GameData_ folder in your KSP installation directory.
